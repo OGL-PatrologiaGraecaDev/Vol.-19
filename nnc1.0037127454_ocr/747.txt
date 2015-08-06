@@ -1,0 +1,82 @@
+ΑΛ
+1 552
+2 1061
+5 1596
+4- 2128
+5 2660
+6 5192
+7 5721
+8 4256
+9 4788
+10 . 5520
+12 6581
+15 6916
+1 4 7118
+15 7980
+7000 21 8 10
+50 2 11 15
+4 4 4 4
+Summa 22 1 15
+6000 8 15 15
+200 4 10 5
+50 22 12 5
+5 5 5 5
+Summa 11 4 15
+
+1 M7
+Tabula V regularium lanae in utroque θείοιο.
+Regularcs Regularcs
+maximi. Isaaci.
+Ianuarius 10 0
+Februarius 11 1
+Martius 10 0
+.Aruﬁﬁs 0 3
+Maius 1 2
+Junius 2 3
+Julius 3 4
+Augustus ᾧ
+September ϐ 7
+October 6 7
+November 8 9
+December 8 10
+CANONES UTRIUSQUE COMPUTI.
+Canos 1. Proposito quolibet anno Alexandrinae
+mra: , vel Constantinopolitanw , cyclos ejus pro-
+prios cognoscere.
+Quaeratur proxime minor ex tabula prima in
+centenariis et millenariis, eisque competentes
+cycli adnotentur solis, luna: et indictiouis; reliqui
+deinde ex decadibus suppleantur. Tum cycli sin-
+guli in suo quique genere colligantur. Quibus ad-
+dantur excurrentcs, si qui supersint, ultra decadas
+numeri. lta fient cycli proprii anni illius, qui pro-
+ponitur, detractis de summa, quoad potes, inte—-
+gris cyclis.
+Exemplum : esto annus ab Adamo computi Alexan -
+cta integra periodo colliguntur anni 12694.
+drini 7054, Constantinopolitani vero 7050. Hocc His animadversis, si annus Graecus propositus
+modo colliges cyclos utriusque.
+In Alexandrino.
+Cycli
+Solis Luna: lndict-a
+Summa 6 4 14
+In Constantinopolitano.
+[Cych
+Solis Luna} lndict.
+7000 28 8 10
+50 aa 12 5;
+Anno ergo Alexandrina: aurae 17054 cyclus erat
+soTis v1, lurise Iv, iudictio xw, Constantinopoli-
+tanus vero 7050 habuit solis cyclum χιιι, luna: ι,
+indictionem xv.
+CANON ll. Edita quolibet anno atriusque computi,
+nosse quem situm habeat in Iuliana 'periodo', vel
+(vra
+affectus sit.
+Tria imprimis observanda sunt : primum seram
+utramque Graecorum ab Adamo ad annum primum
+serae. Christianae , excedere summam annorum pe—
+riodi Julianze, qui ad atram eamdem putantur.
+Alexandrina aera periodum Julianam superabat an-
+nis 779, Constantinopolitana 795; alterum, annum
+cyclos ιι lunae ιν, indict. xv.
